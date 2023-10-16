@@ -1,0 +1,15 @@
+{
+  "parentInstitution":"TestBank",
+  "parentIssuer":"TestBank HK",
+  "name":"Functional Test Token Product",
+  "issuerTokenProductCode": "FTTP",
+  "issuer": "TestBank HK",
+  "tokenProductGroup": "TestBank Diamond",
+  "retentionDays": "300",
+  "country": "Austria",
+  "language": "German",
+  "persoBureau": "AUSTRIACARD",
+  "feedbackRequired": "false",
+  "active": "false",
+  "serviceCode": ""
+}

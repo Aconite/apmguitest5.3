@@ -1,0 +1,61 @@
+{
+  "testData":
+  [
+    {
+      "status":"Active","keyType":"Zone PIN Key","name":"Key \u00c4lph\u00e4","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+    },
+    {
+      "status":"Active","keyType":"Zone PIN Key","name":"Key \u00c5lph\u00e5","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+    },
+    {
+      "status":"Active","keyType":"Zone PIN Key","name":"Key \u00d6bl\u00f6ng","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+    },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key \u0160au\u0161age","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key \u017dig\u017eag","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key \u20ac Character","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key O' Connor","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key Bunkum & Balderdash","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key Se\u00f1or Chips","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key \u00c9l\u00e8ne","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     },
+     {
+       "status":"Active","keyType":"Zone PIN Key","name":"Key \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","hsmType":"Thales payShield (variant)",
+      "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"1970-01-01","decimalisationTableEncryption": "false",
+      "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"
+     }
+  ]
+}
+

@@ -1,0 +1,37 @@
+{
+  "testData": [
+    {
+      "issuerName":"ValidationTest - \u00c4lph\u00e4","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u00c5lph\u00e5","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u00d6bl\u00f6ng","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u0160au\u0161age","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u017dig\u017eag","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u20ac Account","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - O' Connor","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - Bunkum & Balderdash","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - Se\u00f1or Chips","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u00c9l\u00e8ne","institution":"TestBank","country":"Madagascar"
+    },
+    {
+      "issuerName":"ValidationTest - \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","institution":"TestBank","country":"Madagascar"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "testData":
+  [
+    {
+      "name":"TestBank Template \u00c4lph\u00e4","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u00c5lph\u00e5","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u00d6bl\u00f6ng","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u0160au\u0161age","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u017dig\u017eag","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u20ac","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template O' Connor","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template Bunkum & Balderdash","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template Se\u00f1or Chips","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u00c9l\u00e8ne","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    },
+    {
+      "name":"TestBank Template \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","institutionName": "TestBank","Pan": "false",
+      "panSequence": "false","expiryDate": "false","panAlias": "false","panId": "false","pinPukFlag": "false",
+      "pinBlock": "false","pukBlock": "false","pinVerificationValue": "false","pinVerificationMethod": "false",
+      "pvvKeyName": "false","pukVerificationValue": "false","customerCode": "false","operation": "false",
+      "tokenProductName": "false","appSequenceNumber": "false","fixedData": ""
+    }
+  ]
+}
+

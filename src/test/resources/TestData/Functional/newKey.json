@@ -1,0 +1,3 @@
+{"status":"Active","keyType":"Zone PIN Key","name":"Functional Test Zone PIN Key","hsmType":"Thales payShield (variant)",
+  "mkCheckValue":"9D04A0","keyAlgorithm":"DES2EDE","blockSize":"64","expiryDate":"null","decimalisationTableEncryption": "false",
+  "keyValue":"S10096P0TB00S0002D8D294D9FA27B9AC159C4817D709EB4C38C6145274DAE32145CF3761FDC3E4025298CA22FD96AC4B"}

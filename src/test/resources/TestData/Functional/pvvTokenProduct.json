@@ -1,0 +1,16 @@
+{
+  "parentInstitution":"TestBank",
+  "parentIssuer":"TestBank HK",
+  "name":"PVV Test Token Product",
+  "issuerTokenProductCode": "PVVTTP",
+  "issuer": "TestBank HK",
+  "tokenProductGroup": "PVV Test Group",
+  "retentionDays": "180",
+  "country": "Austria",
+  "language": "German",
+  "persoBureau": "AUSTRIACARD",
+  "feedbackRequired": "false",
+  "active": "false",
+  "serviceCode": "254"
+
+}

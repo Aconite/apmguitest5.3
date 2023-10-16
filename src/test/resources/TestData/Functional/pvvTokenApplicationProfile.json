@@ -1,0 +1,22 @@
+{
+  "parentInstitution":"TestBank",
+  "issuer": "TestBank HK",
+  "tokenProduct": "PVV Test Token Product",
+  "appSequenceNumber": "99",
+  "name": "Token App Profile for PVV",
+  "status": "Active",
+  "pinLength": "4",
+  "importEncryptionZone": "TestBank Import",
+  "exportEncryptionZone": "TestBank Export",
+  "pinMailerDelayHours": "2",
+  "pinVerificationKey": "TestBank PVK 1",
+  "pinTemplate": "TestBank PIN template",
+  "pukTemplate": "TestBank PUK template",
+  "passwordTemplate": "TestBank Password template",
+  "pinOverSMSDelayHours": "2",
+  "smsPasswordDelayHours": "2",
+  "smsSender": "SMS Sender",
+  "smsValidityHours": "2",
+  "smsPasswordHours": "2",
+  "smsClass": "Class 1 (normal)"
+}

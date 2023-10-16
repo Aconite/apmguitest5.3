@@ -1,0 +1,49 @@
+{
+  "testData":
+  [
+    {
+      "countryCode":"960",
+      "countryName":"\u00c4lph\u00e4land"
+    },
+    {
+      "countryCode":"961",
+      "countryName":"\u00c5lph\u00e5land"
+    },
+    {
+      "countryCode":"962",
+      "countryName":"\u00d6bl\u00f6ngland"
+    },
+    {
+      "countryCode":"963",
+      "countryName":"\u0160au\u0161ageland"
+    },
+    {
+      "countryCode":"964",
+      "countryName":"\u017dig\u017eagland"
+    },
+    {
+      "countryCode":"965",
+      "countryName":"\u20ac Character"
+    },
+    {
+      "countryCode":"966",
+      "countryName":"O' Connor"
+    },
+    {
+      "countryCode":"967",
+      "countryName":"Bunkum & Balderdash"
+    },
+    {
+      "countryCode":"968",
+      "countryName":"Se\u00f1or Chipsland"
+    },
+    {
+      "countryCode":"969",
+      "countryName":"\u00c9l\u00e8neland"
+    },
+    {
+      "countryCode":"970",
+      "countryName":"\u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023"
+    }
+  ]
+}

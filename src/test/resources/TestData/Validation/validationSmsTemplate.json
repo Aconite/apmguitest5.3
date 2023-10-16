@@ -1,0 +1,38 @@
+{
+  "testData":
+  [
+    {
+      "name":"SMS Template \u00c4lph\u00e4","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u00c5lph\u00e5","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u00d6bl\u00f6ng","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u0160au\u0161age","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u017dig\u017eag","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u20ac Character","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template O' Connor","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template Bunkum & Balderdash","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template Se\u00f1or Chips","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u00c9l\u00e8ne","institutionName": "TestBank","templateType": "Password"
+    },
+    {
+      "name":"SMS Template \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","institutionName": "TestBank","templateType": "Password"
+    }
+  ]
+}

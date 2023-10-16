@@ -1,0 +1,286 @@
+{
+  "testData":
+  [
+    {
+      "name":"admin_key_g", "keys":"true", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_key_s", "keys":"true", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_zne_g", "keys":"true", "encryptionZones":"true", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_zne_s", "keys":"true", "encryptionZones":"true", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_ins_g", "keys":"true", "encryptionZones":"true", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_ins_s", "keys":"true", "encryptionZones":"true", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_int_g", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"true", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_int_s", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"true", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_pbu_g", "keys":"false", "encryptionZones":"true", "institutions":"false", "interfaces":"false", "persoBureaus":"true", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_pbu_s", "keys":"false", "encryptionZones":"true", "institutions":"false", "interfaces":"false", "persoBureaus":"true", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_sms_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"true",
+      "smsTemplateTexts":"true", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_sms_s", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"true",
+      "smsTemplateTexts":"true", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_msg_g", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"true", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_msg_s", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"true", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_cty_g", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_cty_s", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_con_imp", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"true", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_con_exp", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"true", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_iss_g", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_iss_s", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_tpg_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"true", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_tpg_s", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"true", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_tp_g", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"true", "persoBureaus":"true", "smsTemplates":"true",
+      "smsTemplateTexts":"false", "messageTemplates":"true", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"true", "tokenProducts":"true", "tokenAppProfiles":"true", "additionalPvvs":"true",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_tp_s", "keys":"false", "encryptionZones":"true", "institutions":"true", "interfaces":"true", "persoBureaus":"true", "smsTemplates":"true",
+      "smsTemplateTexts":"false", "messageTemplates":"true", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"true", "tokenProducts":"true", "tokenAppProfiles":"true", "additionalPvvs":"true",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_sch_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"true", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_sch_s", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"true", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_sch_r", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"true", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_hsk_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"true", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_hsk_r", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"true", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_aud_g", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"true", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_del_g", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"true", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_fim_g", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"true", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_uss_g", "keys":"false", "encryptionZones":"false", "institutions":"false", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"false",
+      "tokenProductGroups":"false", "tokenProducts":"false", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"true", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_trq_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"true",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_trs_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"true", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_mtk_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"true", "manageTokenApplications":"true", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_mtk_s", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"true", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"true", "manageTokenApplications":"true", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_mta_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"true", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_mta_s", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"true", "tokenStatisticsReport":"false"
+    },
+    {
+      "name":"admin_tsr_g", "keys":"false", "encryptionZones":"false", "institutions":"true", "interfaces":"false", "persoBureaus":"false", "smsTemplates":"false",
+      "smsTemplateTexts":"false", "messageTemplates":"false", "countries":"false", "configuration":"false", "issuers":"true",
+      "tokenProductGroups":"false", "tokenProducts":"true", "tokenAppProfiles":"false", "additionalPvvs":"false",
+      "scheduler":"false", "housekeeper":"false", "auditLog":"false", "extractLog":"false", "fileImport":"false", "usageStatistics":"false", "transactionQuery":"false",
+      "transactionStatistics":"false", "manageTokens":"false", "manageTokenApplications":"false", "tokenStatisticsReport":"true"
+    }
+  ]
+}
+

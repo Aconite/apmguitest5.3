@@ -1,0 +1,93 @@
+{
+  "testData":
+  [
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "20",
+      "name": "TAP \u00c4lph\u00e4", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "21",
+      "name": "TAP \u00c5lph\u00e5", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "22",
+      "name": "TAP \u00d6bl\u00f6ng", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "23",
+      "name": "TAP \u0160au\u0161age", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "24",
+      "name": "TAP \u017dig\u017eag", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "25",
+      "name": "TAP \u20ac Character", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "26",
+      "name": "TAP O' Connor", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "27",
+      "name": "TAP Bunkum & Balderdash", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "28",
+      "name": "TAP Se\u00f1or Chips", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "29",
+      "name": "TAP \u00c9l\u00e8ne", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    },
+    {
+      "parentInstitution":"TestBank", "issuer": "TestBank HK", "tokenProduct": "TestBank Diamond", "appSequenceNumber": "30",
+      "name": "TAP \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023", "status": "Inactive", "pinLength": "4",
+      "importEncryptionZone": "TestBank Import", "exportEncryptionZone": "TestBank Export", "pinMailerDelayHours": "2",
+      "pinVerificationKey": "TestBank PVK 1", "pinTemplate": "TestBank PIN template", "pukTemplate": "TestBank PUK template",
+      "passwordTemplate": "TestBank Password template", "pinOverSMSDelayHours": "2", "smsPasswordDelayHours": "2",
+      "smsSender": "SMS Sender", "smsValidityHours": "2", "smsPasswordHours": "2", "smsClass": "Class 0 (flash)"
+    }
+  ]
+}

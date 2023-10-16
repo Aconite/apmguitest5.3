@@ -1,0 +1,14 @@
+{
+  "name":"Functional Test Encryption Zone",
+  "panEncrypted":"true",
+  "panEncryptionKey":"TestBank Export ZEK",
+  "pinBlockFormat":"ISO 9564-1 Format 1",
+  "pinEncryptionKey":"TestBank Local ZPK",
+  "pukEncrypted":"true",
+  "pukBlockFormat":"ISO 9564-1 Format 1",
+  "pukEncryptionKey": "TestBank Import PUK",
+  "pinSession":"Static",
+  "pukSession":"Static",
+  "excludedPins": " ",
+  "rsaKey": " "
+}

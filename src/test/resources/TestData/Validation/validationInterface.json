@@ -1,0 +1,60 @@
+{
+  "testData":
+  [
+    {
+      "name":"Interface \u00c4lph\u00e4","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u00c5lph\u00e5","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u00d6bl\u00f6ng","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u0160au\u0161age","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u017dig\u017eag","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u20ac Character","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface O' Connor","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface Bunkum & Balderdash","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface Se\u00f1or Chips","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u00c9l\u00e8ne","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    },
+    {
+      "name":"Interface \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","type":"PIN Delivery web-services interface","institution":"TestBank",
+      "encryptionZone":"TestBank Export","host": "ip-172-31-34-84.eu-west-1.compute.internal","port":"8443",
+      "timeout": "300","ssl":"false","keystorePath":" ","certificateAlias":" ","context":" ","username": ""
+    }
+  ]
+}

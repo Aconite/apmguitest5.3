@@ -1,0 +1,11 @@
+{
+  "parentInstitution": "TestBank",
+  "parentIssuer": "TestBank HK",
+  "parentTokenProduct": "PVV Test Token Product",
+  "parentTokenApplicationProfileName": "Token App Profile for PVV",
+  "parentTokenApplicationProfileAppSeqNum": "99",
+  "pvkIdentifier": "Func_99_Diamond",
+  "pinVerificationKey": "TestBank PVK 1",
+  "pinVerificationMethod": "IBM PIN offset"
+}
+

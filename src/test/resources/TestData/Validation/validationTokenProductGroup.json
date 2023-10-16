@@ -1,0 +1,41 @@
+{
+  "testData":
+  [
+    {
+      "name":"Test Group \u00c4lph\u00e4","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u00c4lph\u00e4"
+    },
+    {
+      "name":"Test Group \u00c5lph\u00e5","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u00c5lph\u00e5"
+    },
+    {
+      "name":"Test Group \u00d6bl\u00f6ng","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u00d6bl\u00f6ng"
+    },
+    {
+      "name":"Test Group \u0160au\u0161age","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u0160au\u0161age"
+    },
+    {
+      "name":"Test Group \u017dig\u017eag","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u017dig\u017eag"
+    },
+    {
+      "name":"Test Group \u20ac Character","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u20ac Character"
+    },
+    {
+      "name":"Test Group O' Connor","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "O' Connor"
+    },
+    {
+      "name":"Test Group Bunkum & Balderdash","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "Bunkum & Balderdash"
+    },
+    {
+      "name":"Test Group Se\u00f1or Chips","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "Se\u00f1or Chips"
+    },
+    {
+      "name":"Test Group \u00c9l\u00e8ne","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u00c9l\u00e8ne"
+    },
+    {
+      "name":"Test Group \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f"
+    },
+    {
+      "name":"Test Group \u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","issuer": "TestBank HK","parentInstitution": "TestBank","groupCode": "\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "testData":
+  [
+    {
+      "institutionName": "\u00c4lph\u00e4Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+    {
+      "institutionName": "\u00c5lph\u00e5dminBank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+    {
+      "institutionName": "\u00d6bl\u00f6ngBank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+    {
+      "institutionName": "\u0160au\u0161ageBank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+    {
+      "institutionName": "\u017dig\u017eagBank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+    {
+      "institutionName": "\u20ac Character Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+   {
+      "institutionName": "Bunkum & Balderdash Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+   {
+      "institutionName": "Se\u00f1or Chips Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+   {
+      "institutionName": "\u00c9l\u00e8ne Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+   {
+      "institutionName": "\u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023 Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    },
+    {
+      "institutionName": "O' Connor Bank",
+      "localZone": "ABCBank Local",
+      "institutionZone": "ABCBank Institution",
+      "interfaceZone": "ABCBank Interface",
+      "maxVppPinIdSeconds": "1800"
+    }
+  ]
+}

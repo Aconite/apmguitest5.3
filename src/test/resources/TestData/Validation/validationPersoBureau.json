@@ -1,0 +1,49 @@
+{
+  "testData":
+  [
+    {
+      "name":"Perso Bureau \u00c4lph\u00e4","code":"TBPB1","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u00c5lph\u00e5","code":"TBPB2","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u00d6bl\u00f6ng","code":"TBPB3","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u0160au\u0161age","code":"TBPB4","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u017dig\u017eag","code":"TBPB5","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u20ac Character","code":"TBPB6","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau O' Connor","code":"TBPB7","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau Bunkum & Balderdash","code":"TBPB8","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau Se\u00f1or Chips","code":"TBPB9","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u00c9l\u00e8ne","code":"TBPB10","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    },
+    {
+      "name":"Perso Bureau \u0021\u00a3\u0024\u0025\u005e\u0026\u002a\u0028\u0029\u005f\u002d\u007e\u0040\u0027\u003a\u003b\u007c\u002c\u002e\u002f\u0023","code":"TBPB11","destinationDirectory":"C:\\PinManager\\files\\abc\\output",
+      "encryptionZone":"TestBank Export","extractPAN": "false","extractPANDisplay":"false"
+    }
+  ]
+}
