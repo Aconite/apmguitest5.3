@@ -87,7 +87,7 @@ public class TokenProductTestSteps {
         }
     }
 
-    public static TokenProductDataRecord getJSONData(String filename){
+    public TokenProductDataRecord getJSONData(String filename){
 
         TokenProductDataRecord outRecord = new TokenProductDataRecord();
         String path = TokenProductTestSteps.testDataPath + "/"+ filename;
@@ -203,7 +203,7 @@ public class TokenProductTestSteps {
         }
         catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }
@@ -241,7 +241,7 @@ public class TokenProductTestSteps {
 
         }catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }
@@ -330,7 +330,7 @@ public class TokenProductTestSteps {
 
         }catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }
@@ -375,7 +375,7 @@ public class TokenProductTestSteps {
 
         }catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }
@@ -510,7 +510,7 @@ public class TokenProductTestSteps {
         }
         catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }
@@ -553,7 +553,7 @@ public class TokenProductTestSteps {
         }
         catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }
@@ -604,7 +604,7 @@ public class TokenProductTestSteps {
         }
         catch (Exception exc) {
             softAssert.fail(exc.toString());
-            Logging.failMessage(exc.toString() + "\n" + exc.getStackTrace().toString());
+            Logging.failMessage(exc.toString() + "\n" + Arrays.toString(exc.getStackTrace()));
             AbstractSteps.i_take_a_screenshot("Exception" + adminCommon.getDateTime());
             exc.printStackTrace();
         }

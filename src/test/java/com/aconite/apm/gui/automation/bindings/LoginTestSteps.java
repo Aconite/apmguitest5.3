@@ -10,8 +10,8 @@ public class LoginTestSteps
 {
     LoginPage loginPage = null;
 
-    private AbstractSteps abstractSteps;
-    public WebDriver webDriver = null;
+    private final AbstractSteps abstractSteps;
+    public WebDriver webDriver;
 
     public LoginTestSteps(AbstractSteps abstractSteps)
     {

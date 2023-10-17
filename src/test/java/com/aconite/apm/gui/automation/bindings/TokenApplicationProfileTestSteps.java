@@ -149,7 +149,7 @@ public class TokenApplicationProfileTestSteps {
         }
     }
 
-    static TokenApplicationProfileDataRecord getJSONData(String filename){
+    public TokenApplicationProfileDataRecord getJSONData(String filename){
 
         TokenApplicationProfileDataRecord outRecord = new TokenApplicationProfileDataRecord();
         String path = TokenApplicationProfileTestSteps.testDataPath + "/" + filename;

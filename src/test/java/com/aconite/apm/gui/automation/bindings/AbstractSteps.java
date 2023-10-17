@@ -1,6 +1,5 @@
 package com.aconite.apm.gui.automation.bindings;
 
-import com.aconite.apm.gui.automation.dataload.DataLoadAutomationTestData;
 import com.aconite.apm.gui.automation.utilities.DatabaseConnection;
 import com.aconite.apm.gui.automation.webpages.LoginPage;
 import io.cucumber.java.After;
@@ -10,8 +9,6 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.Scenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
-
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintStream;
@@ -21,12 +18,10 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-
-
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.remote.CapabilityType;
+
 
 public class AbstractSteps {
 
@@ -36,7 +31,6 @@ public class AbstractSteps {
     private String username;
     private String password;
     private String testType;
-    private static String[] institutionOne;
     public static Scenario myScenario;
 
     Properties properties;
@@ -50,7 +44,7 @@ public class AbstractSteps {
         String strDate = dateFormat.format(date);
         PrintStream outStream = null;
         try {
-            outStream = new PrintStream(new File("outFile_" + strDate + ".txt"));
+            outStream = new PrintStream("outFile_" + strDate + ".txt");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }

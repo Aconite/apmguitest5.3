@@ -220,7 +220,7 @@ public class DataloadPinAdviceTestSteps {
 
         for (int it = 0; it < iterations; it++) {
 
-            List<HashMap> panDetailsList = new ArrayList<>();
+            List<HashMap<String, String>> panDetailsList = new ArrayList<>();
             HashMap<String, String> tokenDetails = new HashMap<>();
 
             xmlrsp = WebRequests.dataload(DataLoadTokenImport.dataloadTokenImport(records));
@@ -269,7 +269,7 @@ public class DataloadPinAdviceTestSteps {
 
         for (int it = 0; it < iterations; it++) {
 
-            List<HashMap> panDetailsList = new ArrayList<>();
+            List<HashMap<String, String>> panDetailsList = new ArrayList<>();
             HashMap<String, String> tokenDetails = new HashMap<>();
 
             xmlrsp = WebRequests.dataload(DataLoadTokenImport.dataloadTokenImport(records));

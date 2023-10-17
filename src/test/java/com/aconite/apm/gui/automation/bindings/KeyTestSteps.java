@@ -505,13 +505,6 @@ public class KeyTestSteps {
 
     public void checkRecords(KeyDataRecord record1, KeyDataRecord record2) {
 
-        if(record1.getExpiryDate()==null || record1.getExpiryDate().equalsIgnoreCase("null")){
-            record1.setExpiryDate(null);
-        }
-        if(record2.getExpiryDate()==null || record2.getExpiryDate().equalsIgnoreCase("null")){
-            record2.setExpiryDate(null);
-        }
-
         if (record1 == null) {
             softAssert.fail("Record 1 data is NULL");
             Logging.failMessage("Record 1 data is NULL");
@@ -522,6 +515,13 @@ public class KeyTestSteps {
             softAssert.fail("Record 2 data is NULL");
             Logging.failMessage("Record 2 data is NULL");
             return;
+        }
+
+        if(record1.getExpiryDate()==null || record1.getExpiryDate().equalsIgnoreCase("null")){
+            record1.setExpiryDate(null);
+        }
+        if(record2.getExpiryDate()==null || record2.getExpiryDate().equalsIgnoreCase("null")){
+            record2.setExpiryDate(null);
         }
 
         // Check the records match

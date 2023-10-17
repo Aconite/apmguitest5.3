@@ -1,11 +1,7 @@
 package com.aconite.apm.gui.automation.bindings;
 
 import com.aconite.apm.gui.automation.data.CoreErrorMessages;
-import com.aconite.apm.gui.automation.dataload.datagatherers.DataLoadDataGatherer;
-import com.aconite.apm.gui.automation.dataload.xmlrequests.DataLoadPinDelete;
-import com.aconite.apm.gui.automation.dataload.xmlrequests.DataLoadPinImport;
 import com.aconite.apm.gui.automation.dataload.xmlrequests.DataLoadTOWPD;
-import com.aconite.apm.gui.automation.dataload.xmlrequests.DataLoadTokenImport;
 import com.aconite.apm.gui.automation.utilities.WebRequests;
 import io.cucumber.java.en.Given;
 import org.openqa.selenium.WebDriver;

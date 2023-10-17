@@ -3,9 +3,6 @@ package com.aconite.apm.gui.automation.bindings;
 import org.openqa.selenium.WebDriver;
 import org.testng.asserts.SoftAssert;
 
-import javax.xml.bind.SchemaOutputResolver;
-
-
 public class Logging {
 
     public WebDriver webDriver;

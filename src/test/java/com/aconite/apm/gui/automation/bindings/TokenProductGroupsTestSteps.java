@@ -76,7 +76,7 @@ public class TokenProductGroupsTestSteps {
         }
     }
 
-    static TokenProductGroupDataRecord getJSONData(String filename){
+    public TokenProductGroupDataRecord getJSONData(String filename){
 
         TokenProductGroupDataRecord outRecord = new TokenProductGroupDataRecord();
         String path = TokenProductGroupsTestSteps.testDataPath + "/" + filename;

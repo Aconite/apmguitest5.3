@@ -1,6 +1,5 @@
 package com.aconite.apm.gui.automation.bindings;
 
-import com.aconite.apm.gui.automation.records.TokenProductGroupDataRecord;
 import com.aconite.apm.gui.automation.webpages.HomePage;
 import com.aconite.apm.gui.automation.webpages.CountryPage;
 import com.aconite.apm.gui.automation.webpages.AdminCommon;

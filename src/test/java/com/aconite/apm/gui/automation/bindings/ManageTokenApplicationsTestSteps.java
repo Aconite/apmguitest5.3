@@ -15,7 +15,6 @@ public class ManageTokenApplicationsTestSteps {
     public SoftAssert softAssert = new SoftAssert();
 
     ManageTokensPage manageTokensPage;
-
     AdminCommon adminCommon;
 
     public ManageTokenApplicationsTestSteps(AbstractSteps abstractSteps)

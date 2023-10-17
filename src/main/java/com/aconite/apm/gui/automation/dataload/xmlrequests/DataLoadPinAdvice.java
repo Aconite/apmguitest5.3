@@ -192,7 +192,7 @@ public class DataLoadPinAdvice
 
     }
 
-    public static String dataloadPinAdviceByPanSeqNumExpDateSMS(List<HashMap> panDetailsList){
+    public static String dataloadPinAdviceByPanSeqNumExpDateSMS(List<HashMap<String, String>> panDetailsList){
 
         StringBuilder xml = new StringBuilder();
 
